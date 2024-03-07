@@ -1,0 +1,9 @@
+{
+  "name": "@haily/tea-haily-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@haily",
+  "repository": "https://github.com/Haily040592/tea-haily-quest.git",
+  "license": "ISC"
+}
