@@ -11,7 +11,7 @@
   - author => @username_npm
   - repository => link tới repo github vừa tạo
 
-- Truy cập repo github vừa tạo và upload cả folder vừa sửa lên (vd: https://github.com/.../tea-xyz-quest/upload)
+- Truy cập repo github vừa tạo và upload cả folder vừa sửa lên
 
 - Mở terminal, gõ lệnh "npm -v" để kiểm tra xem đã cài đặt thành công npm ở bước 1 chưa
 
@@ -19,12 +19,10 @@
 
 - "npm login" => Có 1 đường dẫn để bấm vào sẽ mở trình duyệt dẫn tới web login npm
 
-- Sau khi login thành công gõ lệnh "npm publish --access public" để public package lên npm publish. Truy cập npm để check VD: https://www.npmjs.com/package/@daominhhiep/tea-xyz-quest
+- Sau khi login thành công gõ lệnh "npm publish --access public" để public package lên npm publish. Truy cập npm để check - Truy cập app.tea.xyz => Register a New OSS Project
 
-- Truy cập app.tea.xyz => Register a New OSS Project
-
-- Tìm kiếm tên package vừa tạo. VD: @daominhhiep/tea-xyz-quest . Bước này có thể mất tới 2-3 ngày để package mới xuất hiện trên hệ thống của tea.xyz
+- Tìm kiếm tên package vừa tạo. Bước này có thể mất tới 2-3 ngày để package mới xuất hiện trên hệ thống của tea.xyz
 
 - Sau đó tea sẽ cho 1 file có tên tea.yaml, tải về và quay lại repo github, upload tiếp file đó lên là xong.
 
-- Dự án mẫu thao khảo tại: https://github.com/daominhhiep/tea-xyz-quest
+
