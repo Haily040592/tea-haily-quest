@@ -1,0 +1,42 @@
+{
+  "name": "@haily/tea-haily-quest",
+  "version": "1.0.9",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Haily040592/tea-haily-quest.git"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "mafiozo": "^1.1.4",
+    "onedionys-ajax-wrapper": "^1.0.2",
+    "onedionys-analytics-integration": "^1.0.0",
+    "onedionys-animation-library": "^1.0.0",
+	"@haily040528/-tea-hailynew-quest": "^1.0.8", 
+	"@berik999/tea-beriknew-quest": "^1.0.8",
+	"@vilogin1/tea-vn1-quest": "^1.0.7",
+	"@vilogin2/tea-vn2-quest": "^1.0.7",
+    "@vilogin3/tea-vn3-quest": "^1.0.7",
+	"@vilogin4/tea-vn4-quest": "^1.0.7",
+	"@vilogin5/tea-vn5-quest": "^1.0.7",
+	"@vilogin6/tea-vn6-quest": "^1.0.7",
+	"@vilogin7/tea-vn7-quest": "^1.0.7",
+	"@vilogin8/tea-vn8-quest": "^1.0.7",
+	"@vilogin9/tea-vn9-quest": "^1.0.7",
+	"@vilogin10/tea-vn10-quest": "^1.0.7",
+    },
+ "homepage": "https://github.com/Haily040592/tea-haily-quest",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "haily",
+  "license": "MIT"
+}
